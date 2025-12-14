@@ -1,4 +1,4 @@
-# ParcelSortX Data Structures Engine
+# Parcel Sort Data Structures Engine
 
 **A configurable logistics sorting simulation engine implemented in Java.**
 
